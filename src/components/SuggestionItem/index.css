@@ -1,0 +1,14 @@
+.arrowLogo {
+  height: 15px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.nameContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  font-size: 12px;
+}
